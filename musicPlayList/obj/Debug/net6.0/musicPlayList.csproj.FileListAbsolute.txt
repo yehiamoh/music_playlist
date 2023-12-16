@@ -1,0 +1,15 @@
+E:\sha_cSharp\musicPlayList\bin\Debug\net6.0\musicPlayList.exe
+E:\sha_cSharp\musicPlayList\bin\Debug\net6.0\musicPlayList.deps.json
+E:\sha_cSharp\musicPlayList\bin\Debug\net6.0\musicPlayList.runtimeconfig.json
+E:\sha_cSharp\musicPlayList\bin\Debug\net6.0\musicPlayList.dll
+E:\sha_cSharp\musicPlayList\bin\Debug\net6.0\musicPlayList.pdb
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.csproj.AssemblyReference.cache
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.GeneratedMSBuildEditorConfig.editorconfig
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.AssemblyInfoInputs.cache
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.AssemblyInfo.cs
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.csproj.CoreCompileInputs.cache
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.dll
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\refint\musicPlayList.dll
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.pdb
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\musicPlayList.genruntimeconfig.cache
+E:\sha_cSharp\musicPlayList\obj\Debug\net6.0\ref\musicPlayList.dll
