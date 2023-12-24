@@ -24,7 +24,7 @@ namespace musicPlayList
         public int getLenght()
         {
             Node p = head;
-            int counter = 1;
+            int counter = 0;
             while (p != null)
             {
                 p = p.next;
